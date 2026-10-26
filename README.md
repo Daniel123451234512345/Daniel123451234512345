@@ -18,7 +18,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-7B2FBE?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-ho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-ho123)
 [![Email](https://img.shields.io/badge/Gmail-daniel.ho1555%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.ho1555@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Daniel123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daniel123)
 
